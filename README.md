@@ -6,6 +6,8 @@
 2. [File Descriptions](#files)
 3. [Licensing](#licensing)
 
+A less technical article with more in-depth analysis of the project results can be found on Medium (https://medium.com/@gupta.rahul0408/optimizing-starbucks-app-offers-2dc8989b910e).
+
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
