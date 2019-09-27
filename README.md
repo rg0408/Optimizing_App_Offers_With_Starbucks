@@ -17,6 +17,10 @@ The following are the files available in this repository:
 
 * `Starbucks_Capstone_notebook.ipynb` - a notebook containing all the analysis for the project
 
+* `Starbucks_Capstone_notebook.html` - HTML version of the ipynb notebook containing all the analysis for the project along with results
+
+* `trans_amounts.pkl` - pickle file generated while running the code
+
 * `portfolio.json` - json file containing details of Starbucks offers being presented to customers
 
 * `profile.json` - json file containing customer demographic information
