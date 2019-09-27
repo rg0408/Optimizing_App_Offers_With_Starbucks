@@ -4,7 +4,7 @@
 
 1. [Installation](#installation)
 2. [File Descriptions](#files)
-3. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Licensing](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -28,6 +28,6 @@ The following are the files available in this repository:
 * `transcript.json` - json file with simulated customer transaction data
 
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Licensing<a name="licensing"></a>
 
 Thank you to Udacity and Starbucks for the data. Feel free to use the code here as you would like!
